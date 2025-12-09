@@ -21,14 +21,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🎓 [Washington Enrollment Analysis](https://github.com/anamichell/Enrollment-Analysis/blob/main/enrollment_analysis.ipynb) | Educational analysis | I answer business questions related to enrollment data such as does an increase of non-white Students indicate an increase in other factors such as homelessness, migrant, low-income, or non-highly capable and which school district/county is in need of more resources? |  
+
 ***
 
 # Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-
+| 🎓 [Washington Enrollment Analysis](https://github.com/anamichell/Enrollment-Analysis/blob/main/enrollment_analysis.ipynb) | Data Wrangling and EDA | Analyzed government enrollment data to answer questions such as does an increase of non-white Students indicate an increase in other factors such as homelessness, migrant, low-income, or non-highly capable and which school district/county is in need of more resources? | pandas, matplotlib | 
 ***
 
 # Tableau
