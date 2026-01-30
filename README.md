@@ -39,7 +39,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🎵 [Spotify Music Analysis](https://github.com/anamichell/spotify_music_analysis/tree/main?tab=readme-ov-file) | Cleaned and analyzed a Spotify tracks dataset containing 114K+ songs across 125 genres. Explored relationships between audio features (danceability, energy, valence, instrumentalness, liveness, tempo, and duration) and track popularity. Built an interactive Tableau dashboard to identify strong, weak, and negative correlations, with comparisons between explicit and non-explicit tracks. | [Dashboard](https://public.tableau.com/app/profile/ana.garcia2226/viz/SpotifyMusicAnalysis_17697329880890/SpotifyAudioAnalysis) |
 
 # Software and Web Development
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Tools | Project Description |
 |---|---|---|
 | 🗓️ [University Equipment Scheduler](https://github.com/elviazamora338/Senior-Project-2024) | React, SQL, HTML | Developed an equipment scheduler using React and JSX, powered by a SQL database. Users can select a school and log in via a token sent to their email. Once logged in, they can schedule equipment, bookmark items, and staff can add new equipment. The project emphasizes real-time availability, streamlining the scheduling process for an improved user experience.
 | 🎶 [Song Searcher](https://github.com/anamichell/SongSearcher) | SQL, HTML, CSS, JS EJS | Sade Song Searcher is a dynamic webpage utilizing bootstrap to showcase Sade’s discography, featuring an interactive interface for exploring albums, viewing song lyrics, and implementing a search feature for finding songs by partial lyrics, while collaborating on backend data integration for seamless database functionality.
