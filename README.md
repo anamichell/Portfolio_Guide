@@ -36,6 +36,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🍿 [Analyzing Popular Movies on MovieLens](https://github.com/anamichell/Rating-Popular-Movies/tree/main?tab=readme-ov-file) | Cleansed and transformed the MovieLens dataset using Python, including extracting release years from movie titles, normalizing multi-genre classifications, and preparing rating data for analysis. Built an interactive Tableau dashboard to explore average and weighted movie ratings by genre and decade, identify top-rated movies within each decade, and analyze rating distributions while accounting for differences in rating counts. | [Dashboard](https://public.tableau.com/app/profile/ana.garcia2226/viz/PopularMoviesWorksheet-Analysis/Analysis) |
+| 🎵 [Spotify Music Analysis](https://github.com/anamichell/spotify_music_analysis/tree/main?tab=readme-ov-file) | Cleaned and analyzed a Spotify tracks dataset containing 114K+ songs across 125 genres. Explored relationships between audio features (danceability, energy, valence, instrumentalness, liveness, tempo, and duration) and track popularity. Built an interactive Tableau dashboard to identify strong, weak, and negative correlations, with comparisons between explicit and non-explicit tracks. | [Dashboard](https://public.tableau.com/app/profile/ana.garcia2226/viz/SpotifyMusicAnalysis_17697329880890/SpotifyAudioAnalysis) |
 
 # Software and Web Development
 | Project Link | Project Description | Dashboard Link |
