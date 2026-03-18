@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🎓 [Washington Enrollment Analysis](https://github.com/anamichell/Enrollment-Analysis/blob/main/enrollment_analysis.ipynb) | Data Wrangling and EDA | Analyzed government enrollment data to answer questions such as does an increase of non-white Students indicate an increase in other factors such as homelessness, migrant, low-income, or non-highly capable and which school district/county is in need of more resources? | pandas, matplotlib | 
-| 🎓 [CRCD 2017](https://github.com/anamichell/CRDC-2017-Analysis) | Data Wrangling and EDA | Cleaned and analyzed Civil Rights Data Collection (CRDC) data to examine school-related referrals and arrests across states. Created normalized metrics (per 100 schools) to compare disciplinary intensity and analyzed the representation of students with disabilities in referrals and arrests, identifying disparities across states. | pandas |
+| 📍 [CRCD 2017](https://github.com/anamichell/CRDC-2017-Analysis) | Data Wrangling and EDA | Cleaned and analyzed Civil Rights Data Collection (CRDC) data to examine school-related referrals and arrests across states. Created normalized metrics (per 100 schools) to compare disciplinary intensity and analyzed the representation of students with disabilities in referrals and arrests, identifying disparities across states. | pandas |
 ***
 
 # Tableau
